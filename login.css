@@ -1,0 +1,44 @@
+img{
+    height: 100vh;
+    width: 100%;
+   position: relative;
+}
+.work{
+    position: absolute;
+    margin-top: -500px;
+    color: lightcyan;
+   margin-left: 400px;
+}
+.sign{
+    position: absolute;
+    margin-top: -450px;
+    color: lightgreen;
+    margin-left: 570px;
+}
+.input1{
+    position: absolute;
+    margin-top: -400px;
+   margin-left: 550px;
+}
+.input2{
+    position: absolute;
+    margin-top: -350px;
+   margin-left: 550px;
+
+}
+input{
+    width: 350px;
+    height: 30px;
+    background-color: lightcyan;
+}
+button{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: -880px;
+    width: 200px;
+    height: 35px;
+    border: solid;
+    border-radius: 200px;
+    background-color: lightgreen;
+
+}
